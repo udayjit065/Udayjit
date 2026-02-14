@@ -160,21 +160,38 @@ Python • NLP • Machine Learning • Node.js • React • Cloud Deployment
 Live demo is hosted in a limited environment — some functionality may be restricted due to deployment constraints.
 
 ---
+Voclize — Real-Time Speech Intelligence & Fluency Analyzer
 
-### 🎙 Vocalize AI — Voice Interaction & AI Response System  
-🔗 Live Demo: https://vocalize-demo.vercel.app/  
+Voclize is a real-time speech analysis platform that converts spoken audio into text and evaluates communication quality using advanced fluency metrics.
 
-Voice-enabled AI interaction platform that processes spoken input and generates intelligent responses using speech processing and AI inference.
+It helps users improve speaking clarity, pacing, and confidence through data-driven feedback.
 
-**What I built**
-- Voice input processing pipeline  
-- AI response generation workflow  
-- Backend integration for real-time interaction  
-- Full stack interface for conversational flow  
+### 🔥 Key Features
+- Real-time speech-to-text transcription
+- Fluency scoring (0–5 scale)
+- Words Per Minute (WPM) tracking
+- Filler word detection
+- Long pause & hesitation analysis
+- Speaking pace monitoring
+- Live transcript generation
+- Instant communication feedback
 
-**Tech Stack**
-Speech Processing • AI APIs • Node.js • Frontend Integration • Real-time Interaction  
+### 📊 Metrics Generated
+- Fluency Score
+- Speaking Speed
+- Pause Frequency
+- Filler Rate
+- Average Word Time
+- Speech Duration
 
+### 🎯 Use Cases
+- Interview preparation
+- Public speaking training
+- Communication coaching
+- Language fluency improvement
+
+### 🌐 Live Demo
+https://voclize-demo.vercel.app/
 **Note**  
 Demo version runs in restricted API mode — output generation may be limited without active API credentials.
 

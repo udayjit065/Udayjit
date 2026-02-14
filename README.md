@@ -29,11 +29,12 @@ Model training • NLP • embeddings • inference pipelines
 ### Backend Systems
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+<img src="https://skillicons.dev/icons?i=typescript" height="40"/>
 <img src="https://skillicons.dev/icons?i=express" height="40"/>
 <img src="https://skillicons.dev/icons?i=flask" height="40"/>
 </p>
 
-Service design • REST APIs • real-time communication
+Service design • REST APIs • real-time communication • type-safe application architecture
 
 ---
 
@@ -41,10 +42,11 @@ Service design • REST APIs • real-time communication
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react" height="40"/>
 <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
+<img src="https://skillicons.dev/icons?i=typescript" height="40"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
 </p>
 
-Interactive UI • data-driven interfaces
+Interactive UI • data-driven interfaces • type-safe components
 
 ---
 
@@ -131,7 +133,7 @@ LinkedIn
 https://www.linkedin.com/in/udayjit/
 
 Email  
-Udayjit065@gmail.com
+Udayjit065@gmail.com  
 
 ---
 

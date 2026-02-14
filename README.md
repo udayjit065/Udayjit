@@ -160,8 +160,8 @@ Python • NLP • Machine Learning • Node.js • React • Cloud Deployment
 Live demo is hosted in a limited environment — some functionality may be restricted due to deployment constraints.
 
 ---
-Voclize — Real-Time Speech Intelligence & Fluency Analyzer
-
+### Voclize — Real-Time Speech Intelligence & Fluency Analyzer
+🔗 Live Demo https://voclize-demo.vercel.app/
 Voclize is a real-time speech analysis platform that converts spoken audio into text and evaluates communication quality using advanced fluency metrics.
 
 It helps users improve speaking clarity, pacing, and confidence through data-driven feedback.
@@ -190,8 +190,7 @@ It helps users improve speaking clarity, pacing, and confidence through data-dri
 - Communication coaching
 - Language fluency improvement
 
-### 🌐 Live Demo
-https://voclize-demo.vercel.app/
+
 **Note**  
 Demo version runs in restricted API mode — output generation may be limited without active API credentials.
 

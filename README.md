@@ -120,13 +120,19 @@ Version Control • Modular Architecture • Production Debugging
 
 # 🏢 Work at 360labs
 
-Contributing to AI-driven production systems and intelligent data platforms.
+Contributing to the development and deployment of production-grade AI applications and full stack digital platforms.
 
-- Converting photo-based PDFs into structured text datasets  
-- Building ML-powered question retrieval system (ViewGen Papers)  
-- Implementing NLP-based semantic search for academic datasets  
-- Integrating AI pipelines with Node.js backend services  
-- Shipping production-ready AI features for real user workflows  
+- Engineering scalable full stack web applications from frontend UI to backend services  
+- Integrating AI and LLM capabilities into real user-facing product workflows  
+- Building and deploying backend APIs to support intelligent application features  
+- Implementing real-time system interactions and data synchronization  
+- Developing voice and AI-driven interaction features for user engagement  
+- Designing structured data flows and managing cloud-based storage systems  
+- Supporting production deployment, testing, and performance optimization  
+- Collaborating on system architecture and modular feature development  
+- Troubleshooting and improving reliability of live applications  
+
+
 
 ---
 

@@ -10,15 +10,46 @@ Currently working on:
 - Production ML pipelines
 
 ---
-## 🧠 AI Engineering
 
-🔹 NLP & Semantic Search  
-🔹 Transformer Models (BERT, DistilBERT)  
-🔹 Model Training & Optimization  
-🔹 Feature Engineering  
+## 🚀 Tech Stack
 
-🛠 Tools  
-Python • PyTorch • TensorFlow • Hugging Face
+### 🧠 AI / Machine Learning
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+<img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow" />
+<img src="https://img.shields.io/badge/NLP-Text%20Processing-blue" />
+</p>
+
+---
+
+### ⚙ Backend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+<img src="https://img.shields.io/badge/REST-API-green" />
+<img src="https://img.shields.io/badge/Auth-Middleware-orange" />
+</p>
+
+---
+
+### 🎨 Frontend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+---
+
+### 🗄 Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+</p>
+
+---
+
+### ☁ DevOps & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,git,linux" />
+</p>
+
 
 ---
 

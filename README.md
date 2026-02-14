@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Udayjit
 
-Full Stack AI Engineer | ML Builder | Startup Developer at 360labs.ai
+Full Stack AI Engineer | ML Builder | Startup Developer at @360labs.ai
 
 I build and deploy AI-driven products end-to-end — from model training to production APIs and scalable systems.
 

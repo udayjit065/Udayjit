@@ -17,9 +17,17 @@ Primary interests:
 
 ### Machine Learning
 <p align="left">
+<a href="https://www.python.org/doc/" target="_blank">
 <img src="https://skillicons.dev/icons?i=python" height="40"/>
+</a>
+
+<a href="https://pytorch.org/docs/stable/index.html" target="_blank">
 <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+</a>
+
+<a href="https://scikit-learn.org/stable/user_guide.html" target="_blank">
 <img src="https://skillicons.dev/icons?i=sklearn" height="40"/>
+</a>
 </p>
 
 Model training • NLP • embeddings • inference pipelines
@@ -28,22 +36,44 @@ Model training • NLP • embeddings • inference pipelines
 
 ### Backend Systems
 <p align="left">
+<a href="https://nodejs.org/en/docs" target="_blank">
 <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+</a>
+
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
 <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=express" height="40"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank">
 <img src="https://skillicons.dev/icons?i=flask" height="40"/>
+</a>
 </p>
 
-Service design • REST APIs • real-time communication • type-safe application architecture
+Service design • REST APIs • real-time communication • type-safe architecture
 
 ---
 
 ### Frontend
 <p align="left">
+<a href="https://react.dev/learn" target="_blank">
 <img src="https://skillicons.dev/icons?i=react" height="40"/>
+</a>
+
+<a href="https://nextjs.org/docs" target="_blank">
 <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
+</a>
+
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
 <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
+</a>
+
+<a href="https://tailwindcss.com/docs" target="_blank">
 <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+</a>
 </p>
 
 Interactive UI • data-driven interfaces • type-safe components
@@ -52,10 +82,21 @@ Interactive UI • data-driven interfaces • type-safe components
 
 ### Data & Infrastructure
 <p align="left">
+<a href="https://www.mongodb.com/docs/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+</a>
+
+<a href="https://dev.mysql.com/doc/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+</a>
+
+<a href="https://firebase.google.com/docs" target="_blank">
 <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
+</a>
+
+<a href="https://docs.docker.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+</a>
 </p>
 
 Persistence • deployment • environment management
@@ -86,10 +127,10 @@ https://vyu-gen.vercel.app/home
 Semantic search system for structured academic question datasets.
 
 System components:
-- Text embedding generation
-- Similarity-based ranking
-- Topic filtering
-- Dataset ingestion and indexing
+- Text embedding generation  
+- Similarity-based ranking  
+- Topic filtering  
+- Dataset ingestion and indexing  
 
 Built as a full stack application with ML-backed retrieval.
 
@@ -104,11 +145,11 @@ https://voclize-demo.vercel.app/
 Streaming speech processing system that measures speaking behavior using quantifiable metrics.
 
 Core functionality:
-- Real-time speech-to-text
-- Speaking rate estimation
-- Pause detection
-- Filler word tracking
-- Session-level fluency scoring
+- Real-time speech-to-text  
+- Speaking rate estimation  
+- Pause detection  
+- Filler word tracking  
+- Session-level fluency scoring  
 
 Designed for structured communication analysis rather than subjective evaluation.
 

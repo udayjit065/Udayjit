@@ -13,43 +13,16 @@ Currently working on:
 
 ## 🚀 Tech Stack
 
-### 🧠 AI / Machine Learning
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
-<img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow" />
-<img src="https://img.shields.io/badge/NLP-Text%20Processing-blue" />
-</p>
-
----
-
-### ⚙ Backend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-<img src="https://img.shields.io/badge/REST-API-green" />
-<img src="https://img.shields.io/badge/Auth-Middleware-orange" />
-</p>
-
----
-
-### 🎨 Frontend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
----
-
-### 🗄 Databases
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
-</p>
-
----
-
-### ☁ DevOps & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,linux" />
-</p>
-
+🧠 AI / Machine Learning
+<p align="left"> <a href="https://www.python.org/doc/" target="_blank"> <img src="https://skillicons.dev/icons?i=python" height="50"/> </a> <a href="https://pytorch.org/docs/stable/index.html" target="_blank"> <img src="https://skillicons.dev/icons?i=pytorch" height="50"/> </a> <a href="https://www.tensorflow.org/learn" target="_blank"> <img src="https://skillicons.dev/icons?i=tensorflow" height="50"/> </a> <a href="https://scikit-learn.org/stable/user_guide.html" target="_blank"> <img src="https://skillicons.dev/icons?i=sklearn" height="50"/> </a> <a href="https://huggingface.co/docs" target="_blank"> <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge"/> </a> </p>
+⚙ Backend Development
+<p align="left"> <a href="https://nodejs.org/en/docs" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" height="50"/> </a> <a href="https://expressjs.com/en/starter/installing.html" target="_blank"> <img src="https://skillicons.dev/icons?i=express" height="50"/> </a> <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> <img src="https://skillicons.dev/icons?i=flask" height="50"/> </a> </p>
+🎨 Frontend Development
+<p align="left"> <a href="https://react.dev/learn" target="_blank"> <img src="https://skillicons.dev/icons?i=react" height="50"/> </a> <a href="https://nextjs.org/docs" target="_blank"> <img src="https://skillicons.dev/icons?i=nextjs" height="50"/> </a> <a href="https://tailwindcss.com/docs" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind" height="50"/> </a> </p>
+🗄 Databases
+<p align="left"> <a href="https://www.mongodb.com/docs/" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" height="50"/> </a> <a href="https://firebase.google.com/docs" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" height="50"/> </a> <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" height="50"/> </a> </p>
+☁ DevOps & Tools
+<p align="left"> <a href="https://docs.docker.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=docker" height="50"/> </a> <a href="https://git-scm.com/docs" target="_blank"> <img src="https://skillicons.dev/icons?i=git" height="50"/> </a> <a href="https://www.kernel.org/doc/html/latest/" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" height="50"/> </a> </p>
 
 ---
 

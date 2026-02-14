@@ -1,23 +1,26 @@
-# 👋 Hi, I'm Udayjit
+# Udayjit
 
-Full Stack AI Engineer | ML Systems Builder | Startup Developer at 360labs  
+Full Stack AI Engineer | Machine Learning Systems Builder | Product Engineer at 360labs  
 
-I design and deploy AI-driven applications end-to-end — from data pipelines and model training to production APIs and full stack intelligent systems.
+I design, build, and deploy production-grade AI systems end-to-end — from data pipelines and model training to scalable APIs and full stack intelligent applications.
 
-Currently focused on:
-- AI-powered product development  
-- Semantic search & retrieval systems  
-- Production ML deployment  
-- Scalable full stack applications  
+My work focuses on transforming machine learning models into reliable, real-world products that operate under production constraints.
 
----
-
-# 🧠 Full Stack AI Product Engineering Stack
+Current focus areas:
+- AI-powered product engineering  
+- Semantic search and retrieval architectures  
+- Production ML deployment and model serving  
+- Scalable full stack systems  
 
 ---
 
-## 🤖 Intelligence Layer — AI & Machine Learning
-Model development, learning systems, and semantic understanding.
+# Full Stack AI Product Engineering Stack
+
+---
+
+## Intelligence Layer — Machine Learning & AI
+
+Model development, representation learning, and semantic understanding.
 
 <p align="left">
 <a href="https://www.python.org/doc/"><img src="https://skillicons.dev/icons?i=python" height="45"/></a>
@@ -27,26 +30,34 @@ Model development, learning systems, and semantic understanding.
 <a href="https://huggingface.co/docs"><img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge"/></a>
 </p>
 
-NLP • Semantic Search • Feature Engineering • Model Optimization
+Natural Language Processing  
+Semantic Retrieval  
+Feature Engineering  
+Model Optimization  
 
 ---
 
-## 🧩 LLM & AI Production Systems
+## LLM & AI Production Systems
+
 Inference pipelines and real-world AI integration.
 
 <p align="left">
 <a href="https://platform.openai.com/docs"><img src="https://img.shields.io/badge/OpenAI-LLM%20API-black?style=for-the-badge"/></a>
-<a href="https://python.langchain.com/docs/"><img src="https://img.shields.io/badge/LangChain-LLM%20Orchestration-green?style=for-the-badge"/></a>
+<a href="https://python.langchain.com/docs/"><img src="https://img.shields.io/badge/LangChain-Orchestration-green?style=for-the-badge"/></a>
 <a href="https://huggingface.co/docs/transformers/index"><img src="https://img.shields.io/badge/Embeddings-Semantic%20Search-blue?style=for-the-badge"/></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/Model%20Serving-API%20Deployment-red?style=for-the-badge"/></a>
 </p>
 
-Retrieval Systems • Model Serving • Production AI Features
+Retrieval-Augmented Systems  
+Model Serving  
+Inference Optimization  
+Production AI Features  
 
 ---
 
-## ⚙ Application Layer — Backend & APIs
-Service logic, system orchestration, and data flow.
+## Application Layer — Backend Systems
+
+Service architecture, orchestration, and data flow.
 
 <p align="left">
 <a href="https://nodejs.org/en/docs"><img src="https://skillicons.dev/icons?i=nodejs" height="45"/></a>
@@ -54,12 +65,16 @@ Service logic, system orchestration, and data flow.
 <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" height="45"/></a>
 </p>
 
-REST APIs • Authentication • Middleware • Scalable Services
+Service Design  
+Authentication Systems  
+Distributed APIs  
+Scalable Backend Architecture  
 
 ---
 
-## 🎨 Interface Layer — Frontend Systems
-User interaction and intelligent UI delivery.
+## Interface Layer — Frontend Systems
+
+User-facing intelligent interfaces.
 
 <p align="left">
 <a href="https://react.dev/learn"><img src="https://skillicons.dev/icons?i=react" height="45"/></a>
@@ -67,12 +82,15 @@ User interaction and intelligent UI delivery.
 <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" height="45"/></a>
 </p>
 
-Responsive UI • Component Architecture • API Integration
+Component Architecture  
+API-driven UI  
+Performance Optimization  
 
 ---
 
-## 🗄 Data Layer — Storage & Retrieval
-Structured data systems and persistence.
+## Data Layer — Storage & Retrieval
+
+Persistent storage and structured data systems.
 
 <p align="left">
 <a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb" height="45"/></a>
@@ -80,146 +98,150 @@ Structured data systems and persistence.
 <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" height="45"/></a>
 </p>
 
-Data Modeling • Query Optimization • Structured Storage
+Data Modeling  
+Query Optimization  
+Structured Persistence  
 
 ---
 
-## ☁ Infrastructure Layer — Cloud & Deployment
-Hosting, scaling, and production environments.
+## Infrastructure — Cloud & Deployment
+
+Production hosting and system scaling.
 
 <p align="left">
 <a href="https://firebase.google.com/docs/hosting"><img src="https://img.shields.io/badge/Firebase-Hosting-orange?style=for-the-badge"/></a>
-<a href="https://railway.app/docs"><img src="https://img.shields.io/badge/Railway-App%20Deployment-purple?style=for-the-badge"/></a>
+<a href="https://railway.app/docs"><img src="https://img.shields.io/badge/Railway-Deployment-purple?style=for-the-badge"/></a>
 <a href="https://vercel.com/docs"><img src="https://img.shields.io/badge/Vercel-Frontend%20Hosting-black?style=for-the-badge"/></a>
 <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="45"/></a>
 </p>
 
-Environment Configuration • Production Deployment
+Environment Configuration  
+CI/CD Deployment  
+Containerization  
 
 ---
 
-## ⚡ Integration & Operations
-Realtime systems and system reliability.
+## Engineering Operations
 
-Realtime Databases • WebSockets • API Integration  
-Logging • Monitoring • Performance Optimization  
+Realtime Systems  
+WebSockets  
+Monitoring and Logging  
+Performance Optimization  
 
 ---
 
-## 🛠 Engineering Workflow
-Development practices and collaboration.
+## Engineering Workflow
 
 <p align="left">
 <a href="https://git-scm.com/docs"><img src="https://skillicons.dev/icons?i=git" height="45"/></a>
 <a href="https://www.kernel.org/doc/html/latest/"><img src="https://skillicons.dev/icons?i=linux" height="45"/></a>
 </p>
 
-Version Control • Modular Architecture • Production Debugging
+Version Control  
+Modular Architecture  
+Production Debugging  
 
 ---
 
-# 🏢 Work at 360labs
+# Professional Experience — 360labs
 
-Working on production AI systems and full stack applications used in real user environments.
+Working on production AI systems and full stack applications serving real users.
 
-- Developing full stack application features across React / Next.js frontend and Node.js backend services  
-- Integrating AI models and LLM-powered functionality into product workflows  
-- Building REST APIs and service layers for intelligent feature delivery  
-- Implementing real-time communication and dynamic data updates  
-- Supporting voice-enabled and AI-driven interaction systems  
-- Managing structured data pipelines and cloud-based storage solutions  
-- Participating in deployment, testing, and performance tuning of live systems  
-- Contributing to modular architecture and scalable feature design  
+Responsibilities include:
+
+- Developing full stack product features across React / Next.js frontends and Node.js backend services  
+- Integrating machine learning models and LLM-driven capabilities into product workflows  
+- Designing and implementing REST APIs for intelligent feature delivery  
+- Building real-time data pipelines and communication systems  
+- Supporting voice-enabled and AI-driven interaction layers  
+- Managing structured data pipelines and cloud storage infrastructure  
+- Participating in deployment, testing, and performance optimization of live systems  
+- Contributing to scalable system architecture and modular design  
 - Diagnosing and resolving issues in production environments  
 
-
-
-
 ---
-# 🚀 Product & Project Showcase
+
+# Product and Project Showcase
 
 ---
 
-## ⭐ Highlighted AI Products
+## VYUGEN — AI Knowledge and Question Intelligence Platform  
+Live Demo: https://vyu-gen.vercel.app/home  
 
-### 🧠 VYUGEN — AI Knowledge & Question Intelligence Platform  
-🔗 Live Demo: https://vyu-gen.vercel.app/home  
+AI-powered system for semantic question retrieval, structured dataset exploration, and intelligent knowledge navigation across academic content.
 
-AI-powered system for intelligent question retrieval, structured dataset exploration, and semantic search across academic content.
+Core contributions:
 
-**What I built**
-- NLP-based semantic question retrieval engine  
-- Topic-aware search and filtering system  
+- Semantic retrieval engine using NLP embeddings  
+- Topic-aware search and filtering architecture  
 - Structured dataset processing pipeline  
-- Full stack application with AI-powered backend  
+- Full stack application with ML-powered backend  
 
-**Tech Stack**
-Python • NLP • Machine Learning • Node.js • React • Cloud Deployment  
+Technology:
+Python, Machine Learning, NLP, Node.js, React, Cloud Deployment  
 
-**Note**  
-Live demo is hosted in a limited environment — some functionality may be restricted due to deployment constraints.
-
----
-### Voclize — Real-Time Speech Intelligence & Fluency Analyzer
-🔗 Live Demo https://voclize-demo.vercel.app/
-Voclize is a real-time speech analysis platform that converts spoken audio into text and evaluates communication quality using advanced fluency metrics.
-
-It helps users improve speaking clarity, pacing, and confidence through data-driven feedback.
-
-### 🔥 Key Features
-- Real-time speech-to-text transcription
-- Fluency scoring (0–5 scale)
-- Words Per Minute (WPM) tracking
-- Filler word detection
-- Long pause & hesitation analysis
-- Speaking pace monitoring
-- Live transcript generation
-- Instant communication feedback
-
-### 📊 Metrics Generated
-- Fluency Score
-- Speaking Speed
-- Pause Frequency
-- Filler Rate
-- Average Word Time
-- Speech Duration
-
-### 🎯 Use Cases
-- Interview preparation
-- Public speaking training
-- Communication coaching
-- Language fluency improvement
-
-
-**Note**  
-Demo version runs in restricted API mode — output generation may be limited without active API credentials.
+Note: Demo runs in a limited environment with restricted compute resources.
 
 ---
 
-## 📌 Supporting Machine Learning Projects
+## Voclize — Real-Time Speech Intelligence and Fluency Analysis  
+Live Demo: https://voclize-demo.vercel.app/
 
-### 🎵 Spotify Recommendation System  
-Machine learning recommendation engine based on similarity analysis and user listening patterns.
+Real-time speech analysis system that converts audio into text and evaluates communication quality using measurable fluency metrics.
 
-Tech: Python • Pandas • Scikit-learn  
+Core capabilities:
+
+- Live speech transcription  
+- Fluency scoring model  
+- Speaking rate measurement  
+- Filler word detection  
+- Pause and hesitation analysis  
+- Real-time transcript generation  
+- Instant communication feedback  
+
+Generated metrics:
+
+- Fluency score  
+- Speaking speed  
+- Pause frequency  
+- Filler rate  
+- Average word duration  
+- Session duration  
+
+Applications:
+
+- Interview preparation  
+- Public speaking training  
+- Communication coaching  
+- Language fluency development  
+
+Note: Demo operates under restricted API usage.
 
 ---
 
-### 💬 Sentiment Analysis (DistilBERT)  
-Transformer-based sentiment classification using pretrained language models and fine-tuning.
+## Supporting Machine Learning Projects
 
-Tech: Hugging Face • PyTorch  
+### Spotify Recommendation System  
+Similarity-based recommendation engine using listening pattern analysis.
+
+Technology: Python, Pandas, Scikit-learn  
 
 ---
 
+### Transformer-Based Sentiment Analysis  
+DistilBERT fine-tuned for sentiment classification.
+
+Technology: Hugging Face, PyTorch  
+
 ---
 
-# 📫 Connect with me
+# Contact
+
 LinkedIn: https://www.linkedin.com/in/udayjit/  
 Email: Udayjit065@gmail.com  
 
 ---
 
-# 📊 GitHub Activity
+# GitHub Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udayjit065&theme=tokyo-night)

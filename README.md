@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Udayjit
+# 👋 Hi, I'm udayjit065
 
 Full Stack AI Engineer | ML Builder | Startup Developer at @360labs.ai
 
@@ -56,13 +56,12 @@ LinkedIn: https://www.linkedin.com/in/udayjit/
 Phone : 6280082696
 Email: Udayjit065@gmail.com
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udayjit065&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udayjit065&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udayjit065&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udayjit065&layout=compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udayjit065&theme=tokyo-night)
 
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udayjit065)
 
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue)

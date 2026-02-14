@@ -120,17 +120,18 @@ Version Control • Modular Architecture • Production Debugging
 
 # 🏢 Work at 360labs
 
-Contributing to the development and deployment of production-grade AI applications and full stack digital platforms.
+Working on production AI systems and full stack applications used in real user environments.
 
-- Engineering scalable full stack web applications from frontend UI to backend services  
-- Integrating AI and LLM capabilities into real user-facing product workflows  
-- Building and deploying backend APIs to support intelligent application features  
-- Implementing real-time system interactions and data synchronization  
-- Developing voice and AI-driven interaction features for user engagement  
-- Designing structured data flows and managing cloud-based storage systems  
-- Supporting production deployment, testing, and performance optimization  
-- Collaborating on system architecture and modular feature development  
-- Troubleshooting and improving reliability of live applications  
+- Developing full stack application features across React / Next.js frontend and Node.js backend services  
+- Integrating AI models and LLM-powered functionality into product workflows  
+- Building REST APIs and service layers for intelligent feature delivery  
+- Implementing real-time communication and dynamic data updates  
+- Supporting voice-enabled and AI-driven interaction systems  
+- Managing structured data pipelines and cloud-based storage solutions  
+- Participating in deployment, testing, and performance tuning of live systems  
+- Contributing to modular architecture and scalable feature design  
+- Diagnosing and resolving issues in production environments  
+
 
 
 
